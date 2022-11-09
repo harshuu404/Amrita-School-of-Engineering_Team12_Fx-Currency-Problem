@@ -19,17 +19,29 @@ Jupyter Notebook
 Setting up the environment:
 
 mkdir avocado_analytics && cd avocado_analytics
+
 python -m venv venv
+
 source venv/bin/activate
 
+
+
 python -m pip install dash
+
+
 
 python -m pip install pandas
 
 Team 12:
+
 Vemuri Harshini - AM.EN.U4CSE20075
+
 Vundela Deepti Sri Reddy- AM.EN.U4AIE20174
+
 Kagalonu Venkata Chandra Madhav- BL.EN.U4CSE20065
+
 Y Tina Choudary- CB.EN.U4CSE20367
+
 Yedhoti Thrinayani- BL.EN.U4CSE20205
+
 Roshan V M-  BL.EN.U4CSE20141
