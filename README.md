@@ -1,6 +1,7 @@
 # Amrita-School-of-Engineering_Team12_Fx-Currency-Problem
 
 Problem Statement:
+
 Create a dashboard which will allow users to analyze the exchange rates between two currencies 
 over a period of time. Users should have the option to select weekly, monthly, quarterly, and yearly 
 charts. The dashboard should also display the date on which the rate was at its peak (highest) and 
